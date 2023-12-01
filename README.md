@@ -1,2 +1,2 @@
-# health-diploma
- heallth-diploma
+# health-diploma - Дипломный проект на платформе Frontendblok.com
+

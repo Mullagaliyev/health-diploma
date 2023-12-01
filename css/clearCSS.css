@@ -1,0 +1,34 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+h1,
+h2,
+h3 {
+	margin: 0px 0px 0px 0px;
+	padding: 0px;
+}
+
+a {
+	text-decoration: none;
+	transition: 0.2s;
+}
+
+ul li {
+	list-style: none;
+	margin: 0px 0px 0px 0px;
+}
+
+ul {
+	margin: 0px 0px 0px 0px;
+	padding: 0px;
+}
+
+input {
+	outline: none;
+}
+
+body {
+	font-family: 'Montserrat', sans-serif;
+}
