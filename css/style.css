@@ -959,11 +959,7 @@
 
 @media (max-width: 1500px){
 	.main-img img{
-		left: -7%;
-		top: 50%;
-		transform: translate(-50%, -50%);
-		object-fit: contain;
-		z-index: 0;
+		margin-right: 25px;
 	}
 }
 
