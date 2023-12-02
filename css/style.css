@@ -955,8 +955,17 @@
 	color: #2B3541;
 }
 
-
 /* Responsive */
+
+@media (max-width: 1500px){
+	.main-img img{
+		left: -7%;
+		top: 50%;
+		transform: translate(-50%, -50%);
+		object-fit: contain;
+		z-index: 0;
+	}
+}
 
 @media (max-width:1200px) {
 
