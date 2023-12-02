@@ -957,7 +957,7 @@
 
 /* Responsive */
 
-@media (max-width: 1500px){
+@media (max-width:1501px){
 	#screen2x{
 		top: 50%;
 		left: 50%;
@@ -973,7 +973,7 @@
 	.main-item{
 		width: 650px;
 	}
-	
+
 	
 }
 
