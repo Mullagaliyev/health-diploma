@@ -958,7 +958,7 @@
 /* Responsive */
 
 @media (max-width:1501px){
-	#screen2x{
+	.main-img img{
 		top: 50%;
 		left: 50%;
 		transform: translate(-50%, -50%);
@@ -966,14 +966,6 @@
 		width: 100%;
 		height: 100%;
 	}
-	.main-row{
-		max-width: 1500px;
-		margin: 0 auto;
-	}
-	.main-item{
-		width: 650px;
-	}
-
 	
 }
 
