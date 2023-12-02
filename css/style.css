@@ -957,16 +957,7 @@
 
 /* Responsive */
 
-@media (max-width:1501px){
-	.main-img img{
-		top: 50%;
-		left: 50%;
-		transform: translate(-50%, -50%);
-		object-fit: contain;
-		width: 100%;
-		height: 100%;
-	}
-}
+
 
 @media (max-width:1200px) {
 
