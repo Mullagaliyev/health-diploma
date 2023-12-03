@@ -112,7 +112,7 @@
 
 .main-title {
 	font-weight: 700;
-	font-size: 48px;
+	font-size: 44px;
 	text-transform: uppercase;
 	letter-spacing: 0.03em;
 	line-height: 125%;
@@ -175,7 +175,7 @@
 .main-img img {
 	position: absolute;
 	top: 0px;
-	right: -150px;
+	right: -3px;
 	width: 996px;
 	height: 852px;
 	z-index: 0;
