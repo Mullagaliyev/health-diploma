@@ -956,10 +956,17 @@
 }
 
 /* Responsive */
-
+@media (min-width: 1500px){
+	.main-img img {
+		position: absolute;
+		top: 0px;
+		right: -130px;
+		width: 996px;
+		height: 852px;
+		z-index: 0;
+	}
+}
 @media (max-width:1200px) {
-
-
 	.header-nav {
 		flex: 0 0 auto;
 	}
@@ -981,7 +988,7 @@
 
 	.main-img img {
 		top: 0px;
-		right: -20px;
+		right: -3px;
 		width: 600px;
 		height: 590px;
 	}
