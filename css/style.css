@@ -1807,7 +1807,11 @@
 		gap: 16px;
 	}
 }
-
+@media (max-width: 569px){
+	.main-img img{
+		height: 289px;
+	}
+}
 @media (max-width:428px) {
 
 	.main-img img:nth-child(3) {
